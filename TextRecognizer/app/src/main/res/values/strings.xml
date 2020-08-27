@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextRecognizer</string>
+    <string name="camera_permission_denied_message">カメラの権限が無い為アプリを起動できません。</string>
+    <string name="err_msg_ocr_result_empty">文字を認識できませんでした。</string>
+    <string name="err_msg_cv_unknown_host_error">ネットワークエラーが発生しました。インターネット接続をご確認ください。</string>
+    <string name="err_msg_cv_error">認識中にエラーが発生しました。</string>
+    <string name="err_msg_camera">カメラ使用中にエラーが発生しました。</string>
+
+</resources>

@@ -1,0 +1,3 @@
+include ':Logger'
+include ':app'
+rootProject.name = "TextRecognizer"
