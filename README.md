@@ -1,5 +1,5 @@
 # text-recognizer-android
-カメラで撮影した画像をOCR処理して認識したテキストを表示するサンプルです。  
+カメラで撮影した画像にOCR処理をかけて、認識したテキストを表示するサンプルです。  
 OCR処理はAzure Cognitive Services の Computer Vision APIを使用しています。
 
 <img src="https://github.com/sanwakuwaku/img/blob/a2e3759c4f1bdc9fc207cdd138a0a49744b9f63c/text-recognizer-android/text_recog_and_1.jpg?raw=true" width="200px" />      <img src="https://github.com/sanwakuwaku/img/blob/master/text-recognizer-android/text_recog_and_2.jpg?raw=true" width="200px" />
